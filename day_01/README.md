@@ -10,4 +10,7 @@ Instead of "Drum Kit", a _Piano Kit_ will be programmed to play piano sounds of 
 
 The problems that are encountered while re-writing the code for this challenge are provided here.
 
-1.
+1. Deprecated *KeyBoardEvent.keyCode*:
+The keyCode used in the challenge is deprecated at the time of doing this exercise.
+
+The recommended alternstive on MDN is to use **KeyboradEvent.code** instead
