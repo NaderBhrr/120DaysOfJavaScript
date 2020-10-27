@@ -33,6 +33,14 @@ html {
     text-shadow: 0 0 0.5rem black;
 }
 
+/* The styling for the selected key on keyboard */
+.playing {
+  transform: scale(1.1);
+  border-color: #ffc600;
+  box-shadow: 0 0 10px #ffc600
+
+}
+
 kbd {
     display: block;
     
