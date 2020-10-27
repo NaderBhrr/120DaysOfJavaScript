@@ -1,6 +1,6 @@
 # Introduction
 
-Ths is the repository for an intensive JavaScrip skill development based on a ["120 Days Plan"](http://lenafaure.com/2017/08/05/become-better-front-end-developer/) That I found promising to follow.
+This is the repository for an intensive JavaScrip skill development based on a ["120 Days Plan"](http://lenafaure.com/2017/08/05/become-better-front-end-developer/) That I found promising to follow.
 I have modified parts of the plan in order to include the most recent in-demand knowledge of JavaScript.
 
 ## Procedure
